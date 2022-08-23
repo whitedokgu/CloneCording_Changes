@@ -8,4 +8,4 @@
 
 ## To I Made
 
-- [https://whitedokgu.github.io/CloneCoding_Changes/](https://whitedokgu.github.io/CloneCoding_Changes/)
+- [https://whitedokgu.github.io/CloneCoding_Changes](https://whitedokgu.github.io/CloneCoding_Changes)
